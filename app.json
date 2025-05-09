@@ -4,8 +4,8 @@
     "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "todolist",
+    "icon": "./assets/images/TodoIcon.png",
+    "scheme": "",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
